@@ -1,0 +1,6 @@
+/Users/macbook/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/macbook/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/macbook/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csprojAssemblyReference.cache
+/Users/macbook/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.exe
+/Users/macbook/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.pdb
